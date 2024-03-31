@@ -1,5 +1,0 @@
-Introduction to Programming, Computer Science, 16, John Smith, Room 101
-Database Management Systems, Computer Science, 16, Jane Doe, Room 102
-Web Development Fundamentals, Web Development, 16, David Johnson, Room 103
-Data Structures and Algorithms, Web Development, 16, Emily Wilson, Room 104
-Software Engineering Principles, Data Science, 16, Michael Brown, Room 105

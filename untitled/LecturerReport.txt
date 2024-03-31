@@ -1,5 +1,0 @@
-John Smith, Associate Lecturer, Introduction to Programming, 16, Programming
-Jane Doe, Senior Lecturer, Database Management Systems, 16, Web Development
-David Johnson, Professor, Web Development Fundamentals, 16, Software Engineering
-Emily Wilson, Associate Lecturer, Data Structures and Algorithms, 16, Data Mining
-Michael Brown, Senior Lecturer, Software Engineering Principles, 16, Networks
